@@ -34,8 +34,6 @@ Flutter 官方并未提供 TV 支持。一个 Flutter 应用要成为「TV 应�
 
 ## 安装与使用
 
-本仓库为私有仓库，clone 后放到 Agent 的 skills 目录即可：
-
 ```bash
 # 用户级（跨项目可用）
 git clone https://github.com/Little-White3110/flutter-tv-dev.git \
@@ -69,7 +67,7 @@ Agent 通过 Skill 工具按 `name: flutter-tv-dev` 加载，`SKILL.md` 的 `des
 
 ## 许可与资料来源
 
-`SKILL.md` frontmatter 标注 `license: MIT`；本仓库当前为**私有**仓库，访问范围以 GitHub 权限为准。内容整理自：
+`SKILL.md` frontmatter 标注 `license: MIT`。内容整理自：
 
 - Android TV 开发者文档（developer.android.com/training/tv）
 - fluttercandies/dpad v3 README（MIT）
